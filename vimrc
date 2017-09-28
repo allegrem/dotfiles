@@ -23,7 +23,7 @@ set laststatus=2
 " Gutter
 set updatetime=250
 set number
-let g:gitgutter_sign_column_always=1
+set signcolumn=yes
 let g:gitgutter_realtime=1
 let g:gitgutter_eager=1
 
