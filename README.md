@@ -1,4 +1,4 @@
-# allegrem's vimrc
+# vimrc
 
 ## Setup
 
