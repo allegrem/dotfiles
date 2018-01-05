@@ -19,7 +19,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git brew bundler common-aliases dircycle history emoji npm rails rand-quote)
+plugins=(git bundler common-aliases dircycle history emoji npm rails rand-quote)
 
 source $ZSH/oh-my-zsh.sh
 
