@@ -38,7 +38,8 @@ export EDITOR='vim'
 #
 # Example aliases
 
-#DEFAULT_USER=allegrem
+# Hide user@host in prompt
+DEFAULT_USER=allegrem
 
 # autojump
 [[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
